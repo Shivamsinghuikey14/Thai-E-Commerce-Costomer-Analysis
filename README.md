@@ -30,10 +30,11 @@ Expanding analysis to more product categories.
 
 Incorporating more recent data trends.
 
-Enhancing interactive visualizations using Python (Matplotlib, Seaborn, Plotly).
+Enhancing interactive visualizations using Python.
 
 🤝 Contributing
 Contributions are welcome! If you’d like to enhance this project, feel free to submit a pull request.
+![image](https://github.com/user-attachments/assets/b50f0772-4464-4f4e-b36d-176e4464e435)
 
 📩 Contact
 Made By-Shivam singh Uikey
